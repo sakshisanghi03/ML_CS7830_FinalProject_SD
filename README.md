@@ -3,8 +3,6 @@
 This project focuses on detecting fruadulent credit card transactions using machine learning models on a highly imbalanced real-world dataset.
 
 
--- 
-
 
 ## Dataset 
 - Source :Kaggle Credit Card Fruad Dataset
@@ -12,8 +10,6 @@ This project focuses on detecting fruadulent credit card transactions using mach
 - Fraud Cases : **~0.17% (highly imbalanced)**
 - Features are anoymized using PCA (`V1-V28`)
 
-
--- 
 
 
 ## Approach 
@@ -25,15 +21,12 @@ This project focuses on detecting fruadulent credit card transactions using mach
 - Applied **feature scaling** where required
 
 
---
 
 ## Model Used
 - Logistic Regression(baseline)
 - Linear SVM
 - XGBoost (best performing model)
 
-
---
 
 
 ## Evaluation Metrics
@@ -48,16 +41,12 @@ We used the following metrics:
 - **AUC-ROC** – Model performance across different thresholds
 
 
---
-
 
 ## Team Collaboration
 
 This project was developed collaboratively using a shared GitHub repository.  
 All team members were added as collaborators, allowing us to contribute, track changes, and manage the project efficiently.
 
-
---
 
 
 ## Team Members
